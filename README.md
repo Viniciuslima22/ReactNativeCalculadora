@@ -1,2 +1,2 @@
 # ReactNativeCalculadora
-Calcuculadora feita em React-Native
+Calculadora feita em React-Native
